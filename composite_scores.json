@@ -1,0 +1,786 @@
+[
+    {
+        "country": "Ireland",
+        "score": -1.185700927963564
+    },
+    {
+        "country": "Mauritius",
+        "score": -1.1420261718139662
+    },
+    {
+        "country": "Malta",
+        "score": -1.1361251912820995
+    },
+    {
+        "country": "Slovakia",
+        "score": -1.1313052776492296
+    },
+    {
+        "country": "Bulgaria",
+        "score": -1.124938331041332
+    },
+    {
+        "country": "Luxembourg",
+        "score": -1.097391718895614
+    },
+    {
+        "country": "Barbados",
+        "score": -1.058970056047156
+    },
+    {
+        "country": "Estonia",
+        "score": -1.0425273487369107
+    },
+    {
+        "country": "Jamaica",
+        "score": -1.0196971127854098
+    },
+    {
+        "country": "Uruguay",
+        "score": -1.01491251454621
+    },
+    {
+        "country": "Montenegro",
+        "score": -1.0042986372954588
+    },
+    {
+        "country": "Cyprus",
+        "score": -0.9969741823521869
+    },
+    {
+        "country": "Slovenia",
+        "score": -0.9914270230789936
+    },
+    {
+        "country": "Latvia",
+        "score": -0.9780368247519988
+    },
+    {
+        "country": "Croatia",
+        "score": -0.9634485277721979
+    },
+    {
+        "country": "Belize",
+        "score": -0.938642664948041
+    },
+    {
+        "country": "Lithuania",
+        "score": -0.913921956243408
+    },
+    {
+        "country": "Mongolia",
+        "score": -0.8990456452063054
+    },
+    {
+        "country": "Qatar",
+        "score": -0.8892964957257954
+    },
+    {
+        "country": "Iceland",
+        "score": -0.8686825196489216
+    },
+    {
+        "country": "Bahamas",
+        "score": -0.8612449217868985
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "score": -0.8502900411111848
+    },
+    {
+        "country": "Grenada",
+        "score": -0.8474541345904559
+    },
+    {
+        "country": "Namibia",
+        "score": -0.8457308597174638
+    },
+    {
+        "country": "Jordan",
+        "score": -0.841582916342357
+    },
+    {
+        "country": "Dominica",
+        "score": -0.8171917376658372
+    },
+    {
+        "country": "Switzerland",
+        "score": -0.8025556942295212
+    },
+    {
+        "country": "Saint Lucia",
+        "score": -0.7995711747789045
+    },
+    {
+        "country": "Albania",
+        "score": -0.7985937282675214
+    },
+    {
+        "country": "Norway",
+        "score": -0.7887065647231335
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "score": -0.7808625376563847
+    },
+    {
+        "country": "Guyana",
+        "score": -0.7601148913284831
+    },
+    {
+        "country": "Liechtenstein",
+        "score": -0.7314323834657024
+    },
+    {
+        "country": "Serbia",
+        "score": -0.6947626207239065
+    },
+    {
+        "country": "Paraguay",
+        "score": -0.6847220246861533
+    },
+    {
+        "country": "Oman",
+        "score": -0.6806191419519327
+    },
+    {
+        "country": "Portugal",
+        "score": -0.6722913909479719
+    },
+    {
+        "country": "Hungary",
+        "score": -0.6643510635652227
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "score": -0.6625254551299532
+    },
+    {
+        "country": "El Salvador",
+        "score": -0.5891008641742445
+    },
+    {
+        "country": "United Arab Emirates",
+        "score": -0.5720350805072447
+    },
+    {
+        "country": "Finland",
+        "score": -0.568663512308883
+    },
+    {
+        "country": "Singapore",
+        "score": -0.5604255298036491
+    },
+    {
+        "country": "Denmark",
+        "score": -0.5518947964286974
+    },
+    {
+        "country": "Romania",
+        "score": -0.5213931197280549
+    },
+    {
+        "country": "Austria",
+        "score": -0.49031338545353487
+    },
+    {
+        "country": "Panama",
+        "score": -0.45317245536460204
+    },
+    {
+        "country": "Azerbaijan",
+        "score": -0.39844022044647176
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "score": -0.39535138788813146
+    },
+    {
+        "country": "Costa Rica",
+        "score": -0.35951700780112467
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "score": -0.34446074030454454
+    },
+    {
+        "country": "Suriname",
+        "score": -0.3200584308882705
+    },
+    {
+        "country": "Botswana",
+        "score": -0.31369837364547426
+    },
+    {
+        "country": "Ghana",
+        "score": -0.3084534014588636
+    },
+    {
+        "country": "Ecuador",
+        "score": -0.29347835482157486
+    },
+    {
+        "country": "Uzbekistan",
+        "score": -0.2777344633938713
+    },
+    {
+        "country": "Greece",
+        "score": -0.2768902025254794
+    },
+    {
+        "country": "Chile",
+        "score": -0.2762674703658572
+    },
+    {
+        "country": "Israel",
+        "score": -0.23865336932324263
+    },
+    {
+        "country": "Seychelles",
+        "score": -0.2346844746415755
+    },
+    {
+        "country": "Sweden",
+        "score": -0.22230712810513126
+    },
+    {
+        "country": "Bahrain",
+        "score": -0.20868988114736328
+    },
+    {
+        "country": "Honduras",
+        "score": -0.17094003701760474
+    },
+    {
+        "country": "Togo",
+        "score": -0.13451438310028668
+    },
+    {
+        "country": "Fiji",
+        "score": -0.12246657725373405
+    },
+    {
+        "country": "New Zealand",
+        "score": -0.1195113485320412
+    },
+    {
+        "country": "Lesotho",
+        "score": -0.11929121763759859
+    },
+    {
+        "country": "Mali",
+        "score": -0.1157825697801795
+    },
+    {
+        "country": "Niger",
+        "score": -0.09892821070486671
+    },
+    {
+        "country": "Kenya",
+        "score": -0.08391202349055282
+    },
+    {
+        "country": "Gambia",
+        "score": -0.07697176976810714
+    },
+    {
+        "country": "Guinea",
+        "score": -0.059723869549454606
+    },
+    {
+        "country": "Papua New Guinea",
+        "score": -0.0587396985661698
+    },
+    {
+        "country": "Armenia",
+        "score": -0.058291769505852714
+    },
+    {
+        "country": "Dominican Republic",
+        "score": -0.04276766933114072
+    },
+    {
+        "country": "Kuwait",
+        "score": -0.030611948032308656
+    },
+    {
+        "country": "Liberia",
+        "score": -0.02394814834893827
+    },
+    {
+        "country": "United Kingdom",
+        "score": -0.02177851247790577
+    },
+    {
+        "country": "Monaco",
+        "score": 0.005839417198990865
+    },
+    {
+        "country": "Equatorial Guinea",
+        "score": 0.01985821978075231
+    },
+    {
+        "country": "Comoros",
+        "score": 0.024873315016169156
+    },
+    {
+        "country": "Nicaragua",
+        "score": 0.03383304836784462
+    },
+    {
+        "country": "Tajikistan",
+        "score": 0.04324092836520919
+    },
+    {
+        "country": "Haiti",
+        "score": 0.04524987581869762
+    },
+    {
+        "country": "Maldives",
+        "score": 0.05869706909465727
+    },
+    {
+        "country": "Puerto Rico",
+        "score": 0.06287224402842552
+    },
+    {
+        "country": "Malawi",
+        "score": 0.06382311169613139
+    },
+    {
+        "country": "Sierra Leone",
+        "score": 0.06529199117208251
+    },
+    {
+        "country": "Kiribati",
+        "score": 0.06568000785478942
+    },
+    {
+        "country": "Turkmenistan",
+        "score": 0.065954138049333
+    },
+    {
+        "country": "Somalia",
+        "score": 0.07253798270261427
+    },
+    {
+        "country": "Zambia",
+        "score": 0.07290979718532806
+    },
+    {
+        "country": "Burundi",
+        "score": 0.07544200527261205
+    },
+    {
+        "country": "Benin",
+        "score": 0.07698357917070181
+    },
+    {
+        "country": "Poland",
+        "score": 0.0770363696318144
+    },
+    {
+        "country": "Malaysia",
+        "score": 0.08568777683382794
+    },
+    {
+        "country": "Samoa",
+        "score": 0.08569466450893037
+    },
+    {
+        "country": "Gabon",
+        "score": 0.0884796578472803
+    },
+    {
+        "country": "Guinea-Bissau",
+        "score": 0.09020079035238561
+    },
+    {
+        "country": "Central African Republic",
+        "score": 0.09255003630822374
+    },
+    {
+        "country": "Tuvalu",
+        "score": 0.09339454241986253
+    },
+    {
+        "country": "Palau",
+        "score": 0.09779589940496783
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "score": 0.09908913940412582
+    },
+    {
+        "country": "Marshall Islands",
+        "score": 0.10045336409684852
+    },
+    {
+        "country": "Zimbabwe",
+        "score": 0.10045860528534827
+    },
+    {
+        "country": "Kazakhstan",
+        "score": 0.10046194053697671
+    },
+    {
+        "country": "Senegal",
+        "score": 0.11072470396137152
+    },
+    {
+        "country": "Australia",
+        "score": 0.11774814940433245
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "score": 0.13441047556010188
+    },
+    {
+        "country": "Chad",
+        "score": 0.13526844920158018
+    },
+    {
+        "country": "Burkina Faso",
+        "score": 0.14007042876737424
+    },
+    {
+        "country": "Mauritania",
+        "score": 0.1443633741624542
+    },
+    {
+        "country": "Japan",
+        "score": 0.14851695077683694
+    },
+    {
+        "country": "San Marino",
+        "score": 0.15112214499497537
+    },
+    {
+        "country": "Tunisia",
+        "score": 0.15456679080282842
+    },
+    {
+        "country": "Georgia",
+        "score": 0.1545788349187505
+    },
+    {
+        "country": "Bermuda",
+        "score": 0.15601599632798688
+    },
+    {
+        "country": "Indonesia",
+        "score": 0.15709322010727816
+    },
+    {
+        "country": "Madagascar",
+        "score": 0.17720245858742845
+    },
+    {
+        "country": "Algeria",
+        "score": 0.1795945116603349
+    },
+    {
+        "country": "Kyrgyzstan",
+        "score": 0.18823094556438585
+    },
+    {
+        "country": "Timor-Leste",
+        "score": 0.18959342244362481
+    },
+    {
+        "country": "Tonga",
+        "score": 0.19054209295154798
+    },
+    {
+        "country": "Cameroon",
+        "score": 0.19622579181771507
+    },
+    {
+        "country": "Djibouti",
+        "score": 0.2005774731048027
+    },
+    {
+        "country": "Vanuatu",
+        "score": 0.21690733219282346
+    },
+    {
+        "country": "Spain",
+        "score": 0.22568410787109705
+    },
+    {
+        "country": "Mozambique",
+        "score": 0.22926038154641415
+    },
+    {
+        "country": "Bolivia",
+        "score": 0.2409164138320198
+    },
+    {
+        "country": "Bhutan",
+        "score": 0.24949642571852917
+    },
+    {
+        "country": "Solomon Islands",
+        "score": 0.2507418914427443
+    },
+    {
+        "country": "Thailand",
+        "score": 0.2605822592734618
+    },
+    {
+        "country": "Nepal",
+        "score": 0.2672483123392064
+    },
+    {
+        "country": "Uganda",
+        "score": 0.27768019472942373
+    },
+    {
+        "country": "Belgium",
+        "score": 0.2926147056311256
+    },
+    {
+        "country": "Netherlands",
+        "score": 0.29366275550450105
+    },
+    {
+        "country": "Guatemala",
+        "score": 0.31846654473123653
+    },
+    {
+        "country": "Peru",
+        "score": 0.3203720491369759
+    },
+    {
+        "country": "Cambodia",
+        "score": 0.3270041865558266
+    },
+    {
+        "country": "Cayman Islands",
+        "score": 0.343069887978091
+    },
+    {
+        "country": "Faroe Islands",
+        "score": 0.34528969923553066
+    },
+    {
+        "country": "Aruba",
+        "score": 0.3459134886900453
+    },
+    {
+        "country": "Lebanon",
+        "score": 0.3530542180764109
+    },
+    {
+        "country": "Nauru",
+        "score": 0.3740252583498334
+    },
+    {
+        "country": "Ethiopia",
+        "score": 0.40230288836762396
+    },
+    {
+        "country": "Guam",
+        "score": 0.45992275112735337
+    },
+    {
+        "country": "American Samoa",
+        "score": 0.46304303052430523
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "score": 0.4630533282305126
+    },
+    {
+        "country": "French Polynesia",
+        "score": 0.46379585687717717
+    },
+    {
+        "country": "Gibraltar",
+        "score": 0.46384515400191134
+    },
+    {
+        "country": "Greenland",
+        "score": 0.4638988339392504
+    },
+    {
+        "country": "Martinique",
+        "score": 0.46585813261798514
+    },
+    {
+        "country": "Hong Kong",
+        "score": 0.46695887787434737
+    },
+    {
+        "country": "Guadeloupe",
+        "score": 0.4676361257349404
+    },
+    {
+        "country": "French Guiana",
+        "score": 0.46827425385714216
+    },
+    {
+        "country": "Reunion",
+        "score": 0.47320911133550275
+    },
+    {
+        "country": "New Caledonia",
+        "score": 0.49394494323815397
+    },
+    {
+        "country": "Angola",
+        "score": 0.4951514020797435
+    },
+    {
+        "country": "Germany",
+        "score": 0.5005793233184773
+    },
+    {
+        "country": "Belarus",
+        "score": 0.5132752440053584
+    },
+    {
+        "country": "Italy",
+        "score": 0.5229054851386461
+    },
+    {
+        "country": "Morocco",
+        "score": 0.5370953819170387
+    },
+    {
+        "country": "Eritrea",
+        "score": 0.5434447795392108
+    },
+    {
+        "country": "Cuba",
+        "score": 0.5674856527010431
+    },
+    {
+        "country": "Canada",
+        "score": 0.588457338235895
+    },
+    {
+        "country": "Sri Lanka",
+        "score": 0.6058414783602333
+    },
+    {
+        "country": "Montserrat",
+        "score": 0.617584206321571
+    },
+    {
+        "country": "Brunei Darussalam",
+        "score": 0.644835759192393
+    },
+    {
+        "country": "Pakistan",
+        "score": 0.6540070192805346
+    },
+    {
+        "country": "Argentina",
+        "score": 0.6654171034238081
+    },
+    {
+        "country": "Afghanistan",
+        "score": 0.6686034364920257
+    },
+    {
+        "country": "Ukraine",
+        "score": 0.6776905561858206
+    },
+    {
+        "country": "Yemen",
+        "score": 0.6784792942908244
+    },
+    {
+        "country": "Nigeria",
+        "score": 0.6896820638873342
+    },
+    {
+        "country": "France",
+        "score": 0.6977910767553512
+    },
+    {
+        "country": "Myanmar",
+        "score": 0.7071746444128844
+    },
+    {
+        "country": "Sudan",
+        "score": 0.7256757927259337
+    },
+    {
+        "country": "Niue",
+        "score": 0.7446664068237746
+    },
+    {
+        "country": "Colombia",
+        "score": 0.7933489098893884
+    },
+    {
+        "country": "United States",
+        "score": 0.7957036181142421
+    },
+    {
+        "country": "Bangladesh",
+        "score": 0.7965396852565751
+    },
+    {
+        "country": "Guernsey",
+        "score": 0.7990409244692916
+    },
+    {
+        "country": "Jersey",
+        "score": 0.7990409244692916
+    },
+    {
+        "country": "Iraq",
+        "score": 0.8016995318482234
+    },
+    {
+        "country": "Isle of Man",
+        "score": 0.8027155061704804
+    },
+    {
+        "country": "India",
+        "score": 0.8093830197019601
+    },
+    {
+        "country": "China",
+        "score": 0.8216840300090389
+    },
+    {
+        "country": "Cook Islands",
+        "score": 0.8229339257719073
+    },
+    {
+        "country": "Mexico",
+        "score": 0.8468943722449515
+    },
+    {
+        "country": "Turkey",
+        "score": 0.8703143341977561
+    },
+    {
+        "country": "South Africa",
+        "score": 0.8731363296790158
+    },
+    {
+        "country": "Venezuela",
+        "score": 0.9089134930546784
+    },
+    {
+        "country": "Saudi Arabia",
+        "score": 0.9269448744645749
+    },
+    {
+        "country": "Egypt",
+        "score": 0.9588497644599279
+    },
+    {
+        "country": "Philippines",
+        "score": 1.0157701322078447
+    },
+    {
+        "country": "Brazil",
+        "score": 1.0685098598972322
+    }
+]
